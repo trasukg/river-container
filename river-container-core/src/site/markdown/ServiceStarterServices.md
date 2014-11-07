@@ -19,7 +19,7 @@
 Deploying Services Designed for ServiceStarter API
 ==================================================
 
-Partly for compatability, but mainly so we can host the "core" River services
+Partly for compatibility, but mainly so we can host the "core" River services
 like Reggie, the container needs to be able to deploy services written for the
 service starter interface.
 
