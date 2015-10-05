@@ -56,7 +56,7 @@ public class AdminImpl implements ServiceIDListener, AdminRemote {
     private static final Logger log
             = Logger.getLogger(AdminImpl.class.getName(), MessageNames.BUNDLE_NAME);
 
-    private static final String COMPONENT_ID = "basic";
+    private static final String COMPONENT_ID = "default";
 
     Configuration config = null;
     Context ctx = null;
